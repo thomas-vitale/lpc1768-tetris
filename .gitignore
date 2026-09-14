@@ -1,0 +1,25 @@
+# Keil build output
+Objects/
+Listings/
+*.axf
+*.o
+*.d
+*.lst
+*.map
+*.htm
+*.build_log.htm
+*.dep
+*.lnp
+*.sct
+*.iex
+*.i
+
+# Keil per-user and generated files
+*.uvoptx
+*.uvguix.*
+RTE/
+DebugConfig/
+EventRecorderStub.scvd
+
+.DS_Store
+Thumbs.db
